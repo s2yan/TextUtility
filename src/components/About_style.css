@@ -1,0 +1,58 @@
+/* about_style.css */
+
+.about-us {
+    margin: 20px;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  .about-us h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .about-us h2 {
+    font-size: 28px;
+    margin: 16px 0;
+    color: #555;
+  }
+  
+  .about-us p {
+    font-size: 16px;
+    margin: 8px 0;
+    color: #444;
+  }
+  
+  .key-features {
+    margin-top: 30px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #ddd;
+  }
+  
+  .key-features h2 {
+    font-size: 24px;
+    margin: 0;
+    padding-bottom: 8px;
+    color: #333;
+    border-bottom: 2px solid #ff6f00;
+  }
+  
+  .key-features li {
+    font-size: 18px;
+    margin: 10px 0;
+    color: #555;
+    list-style-type: disc;
+  }
+  
+  .key-features strong {
+    font-weight: bold;
+    color: #222;
+  }
+  
+  /* Add any additional styles as needed */
+  
